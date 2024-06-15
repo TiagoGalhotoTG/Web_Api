@@ -1,0 +1,7 @@
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.exe
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\appsettings.json
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.dll
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.deps.json
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.runtimeconfig.json
+E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.pdb
