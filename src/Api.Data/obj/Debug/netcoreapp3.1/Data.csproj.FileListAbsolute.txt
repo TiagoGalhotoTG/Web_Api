@@ -1,0 +1,10 @@
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
