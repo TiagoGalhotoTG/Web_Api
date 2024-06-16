@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "Api.Applicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Api.Domain\Domain.csproj", "{B3D646DC-C0C1-4707-97F3-DCDEB03D29FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting", "Api.CrossCutting\CrossCutting.csproj", "{A74D90F7-A51A-4F6E-9532-055869ED64A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B3D646DC-C0C1-4707-97F3-DCDEB03D29FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D646DC-C0C1-4707-97F3-DCDEB03D29FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D646DC-C0C1-4707-97F3-DCDEB03D29FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74D90F7-A51A-4F6E-9532-055869ED64A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74D90F7-A51A-4F6E-9532-055869ED64A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74D90F7-A51A-4F6E-9532-055869ED64A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74D90F7-A51A-4F6E-9532-055869ED64A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
