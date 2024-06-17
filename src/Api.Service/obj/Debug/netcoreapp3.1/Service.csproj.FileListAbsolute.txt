@@ -8,3 +8,10 @@ E:\API_DOTNET\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 E:\API_DOTNET\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
 E:\API_DOTNET\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
 E:\API_DOTNET\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+E:\API_DOTNET\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\API_DOTNET\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
