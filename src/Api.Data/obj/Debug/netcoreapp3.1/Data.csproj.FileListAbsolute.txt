@@ -8,3 +8,9 @@ E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
 E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+E:\API_DOTNET\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\API_DOTNET\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

@@ -31,6 +31,5 @@ E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.L
 E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\API_DOTNET\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
-E:\API_DOTNET\src\Api.Application\bin\Debug\netcoreapp3.1\application.StaticWebAssets.xml
 E:\API_DOTNET\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
 E:\API_DOTNET\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig

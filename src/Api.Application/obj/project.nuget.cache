@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H582JhnAT25ZN1pNDYZxX0GZZCO+Gmm4jdC42Ky1WOzEYJODaohCXvAdvTcVF/ujZLkn2pK9e+IGZyAoL89/tg==",
+  "dgSpecHash": "cGB9yJX6zOeAj6D+IduR4cBYnAlq5NM5k/XM/vpl7Gzhr2gHabEp2jWytr4+q/JoqS3yizMBu+b65icJ6C83Cw==",
   "success": true,
   "projectFilePath": "E:\\API_DOTNET\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,8 @@
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\tiago\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
+    "C:\\Users\\tiago\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
