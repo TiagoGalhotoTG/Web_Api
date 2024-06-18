@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvedxtYPlm3MuLWnvfovEQkVChMu+cmKdUnl/2YmNW2FS7+oJhdQPwKf4VNnVsLLvn/wXyOSw2HWqnUtFtaldA==",
+  "dgSpecHash": "AeVun5gv0avhlyGTUC2IURUl2ah8y3/u3FXf6cu/GypEip12x4fkW3pXIR3LYAO9EFAhaykAD/1dRmdw4M6How==",
   "success": true,
-  "projectFilePath": "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

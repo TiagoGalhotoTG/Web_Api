@@ -705,11 +705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API_DOTNET\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "E:\\Web_Api_Cep\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "E:\\API_DOTNET\\src\\Api.Application\\application.csproj",
+      "projectPath": "E:\\Web_Api_Cep\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "E:\\API_DOTNET\\src\\Api.Application\\obj\\",
+      "outputPath": "E:\\Web_Api_Cep\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"

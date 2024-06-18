@@ -5309,11 +5309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API_DOTNET\\src\\Api.Service\\Service.csproj",
+      "projectUniqueName": "E:\\Web_Api_Cep\\src\\Api.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "E:\\API_DOTNET\\src\\Api.Service\\Service.csproj",
+      "projectPath": "E:\\Web_Api_Cep\\src\\Api.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "E:\\API_DOTNET\\src\\Api.Service\\obj\\",
+      "outputPath": "E:\\Web_Api_Cep\\src\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5328,14 +5328,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "E:\\API_DOTNET\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "E:\\API_DOTNET\\src\\Api.Data\\Data.csproj"
+            "E:\\Web_Api_Cep\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "E:\\Web_Api_Cep\\src\\Api.Data\\Data.csproj"
             },
-            "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
+            "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "E:\\API_DOTNET\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "E:\\API_DOTNET\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "E:\\Web_Api_Cep\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"

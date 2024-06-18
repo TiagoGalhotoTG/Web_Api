@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {}
+    "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
+    "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "E:\\Web_Api_Cep\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "E:\\API_DOTNET\\src\\Api.Domain\\obj\\",
+        "outputPath": "E:\\Web_Api_Cep\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
