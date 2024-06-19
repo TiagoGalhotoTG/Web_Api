@@ -14,19 +14,19 @@ namespace Api.Service.Services
         {
             _repository = repository;
         }
-        public async Task<bool> Delete(Guid id)
+        public async Task<bool> Delete (Guid id)
         {
-            return await _repository.DeleteAsync(id);
+            return await _repository.DeleteAsync (id);
         }
 
-        public async Task<UserEntity> Get(Guid id)
+        public async Task<UserEntity> Get (Guid id)
         {
-            return await _repository.SelectAsync(id);
+            return await _repository.SelectAsync (id);
         }
 
-        public async Task<IEnumerable<UserEntity>> GetAll()
+        public async Task<IEnumerable<UserEntity>> GetAll ()
         {
-            return await _repository.SelectAsync();
+            return await _repository.SelectAsync ();
         }
 
         public async Task<UserEntity> Post(UserEntity user)
@@ -34,7 +34,7 @@ namespace Api.Service.Services
             return await _repository.InsertAsync (user);
         }
 
-        public async Task<UserEntity> Put(UserEntity user)
+        public async Task<UserEntity> Put (UserEntity user)
         {
             return await _repository.UpdateAsync (user);
         }

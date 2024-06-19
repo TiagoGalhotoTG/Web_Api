@@ -18,3 +18,10 @@ E:\Web_Api_Cep\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.Assembl
 E:\Web_Api_Cep\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 E:\Web_Api_Cep\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 E:\Web_Api_Cep\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+E:\Web_Api_Cep\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Web_Api_Cep\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
