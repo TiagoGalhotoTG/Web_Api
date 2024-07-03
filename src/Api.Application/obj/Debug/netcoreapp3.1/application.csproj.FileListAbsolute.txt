@@ -64,7 +64,6 @@ E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.Co
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
-E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
@@ -104,3 +103,4 @@ E:\Web_Api_Cep\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCor
 E:\Web_Api_Cep\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Web_Api_Cep\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+E:\Web_Api_Cep\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete

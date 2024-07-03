@@ -26,7 +26,7 @@ E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorC
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
-E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\Web_Api_Cep\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
